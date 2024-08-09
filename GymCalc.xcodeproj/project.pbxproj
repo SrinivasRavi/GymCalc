@@ -14,6 +14,8 @@
 		EDA572C72C66A51D00F23D7D /* GymCalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA572C62C66A51D00F23D7D /* GymCalcTests.swift */; };
 		EDA572D12C66A51D00F23D7D /* GymCalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA572D02C66A51D00F23D7D /* GymCalcUITests.swift */; };
 		EDA572D32C66A51D00F23D7D /* GymCalcUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA572D22C66A51D00F23D7D /* GymCalcUITestsLaunchTests.swift */; };
+		EDA572DF2C66C52200F23D7D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA572B72C66A51B00F23D7D /* ContentView.swift */; };
+		EDA572E02C66C52300F23D7D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA572B72C66A51B00F23D7D /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -266,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDA572DF2C66C52200F23D7D /* ContentView.swift in Sources */,
 				EDA572C72C66A51D00F23D7D /* GymCalcTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -276,6 +279,7 @@
 			files = (
 				EDA572D12C66A51D00F23D7D /* GymCalcUITests.swift in Sources */,
 				EDA572D32C66A51D00F23D7D /* GymCalcUITestsLaunchTests.swift in Sources */,
+				EDA572E02C66C52300F23D7D /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
